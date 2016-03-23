@@ -1,2 +1,2 @@
 # SSCExample
-SeeSaw Canwas Example, canvas with listeners and action.
+SeeSaw Canvas Example, canvas with listeners and action.
